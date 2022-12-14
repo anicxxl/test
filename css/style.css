@@ -48,7 +48,6 @@ select {
 	font: inherit;
 }
 
-body {
-	margin: 0;
-	padding: 0;
+.header{
+	background: #000;
 }
